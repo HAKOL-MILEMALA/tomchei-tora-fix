@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Fix Card Heights Tomchei Tora
+// @name         שיפור האתר תומכי תורה
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  מיישר את גובה הכרטיסים ומציג טקסט מלא מבלי לשבור את עיצוב האתר
 // @match        https://tomcheitora.org.il/*
 // @grant        GM_addStyle
