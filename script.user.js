@@ -5,8 +5,8 @@
 // @description  מיישר את גובה הכרטיסים ומציג טקסט מלא מבלי לשבור את עיצוב האתר
 // @match        https://tomcheitora.org.il/*
 // @grant        GM_addStyle
-// @updateURL    https://github.com/המשתמש-שלך/tomchei-tora-fix/raw/main/script.user.js
-// @downloadURL  https://github.com/המשתמש-שלך/tomchei-tora-fix/raw/main/script.user.js
+// @updateURL    https://github.com/HAKOL-MILEMALA/tomchei-tora-fix/raw/main/script.user.js
+// @downloadURL  https://github.com/HAKOL-MILEMALA/tomchei-tora-fix/raw/main/script.user.js
 // ==/UserScript==
 
 (function() {
