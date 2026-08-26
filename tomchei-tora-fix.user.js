@@ -5,8 +5,8 @@
 // @description  הסתרת תפריט עליון בגלילה וביטול מגבלת שורות בהצגת מוצרים
 // @author       HAKOL-MILEMALA
 // @match        https://tomcheitora.org.il/*
-// @updateURL    https://raw.githubusercontent.com/HAKOL-MILEMALA/tomchei-tora-fix/main/tomchei-tora-fix/tomchei-tora-fix.user.js
-// @downloadURL  https://raw.githubusercontent.com/HAKOL-MILEMALA/tomchei-tora-fix/main/tomchei-tora-fix/tomchei-tora-fix.user.js
+// @updateURL    https://raw.githubusercontent.com/HAKOL-MILEMALA/tomchei-tora-fix/main/tomchei-tora-fix.user.js
+// @downloadURL  https://raw.githubusercontent.com/HAKOL-MILEMALA/tomchei-tora-fix/main/tomchei-tora-fix.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
