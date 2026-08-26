@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         תיקון אתר תומכי תורה
 // @namespace    https://github.com/HAKOL-MILEMALA/tomchei-tora-fix
-// @version      2.0.1
+// @version      2.0.2
 // @description  הסתרת תפריט עליון בגלילה וביטול מגבלת שורות בהצגת מוצרים
 // @author       HAKOL-MILEMALA
 // @match        https://tomcheitora.org.il/*
